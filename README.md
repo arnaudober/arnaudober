@@ -1,6 +1,6 @@
 👋 Hi, I’m @arnaudober  
   
-I turn your idea into a digital business 🌟 Senior Developer full-stack Node.js
+I turn your idea into a digital business 🌟 Senior Developer full-stack Node.js  
 🎹 Pianist | 🎵 Music Lover  
   
 💼 Open to Collaborations on Web Development, Open Source Projects, and Technical Writing  
