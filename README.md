@@ -1,6 +1,6 @@
 👋 Hi, I’m @arnaudober  
   
-🚀 Bilingual Web Development Consultant | Turning Ideas into Marketable Products 🌟  
+I turn your idea into a digital business 🌟 Senior Developer full-stack Node.js
 🎹 Pianist | 🎵 Music Lover  
   
 💼 Open to Collaborations on Web Development, Open Source Projects, and Technical Writing  
