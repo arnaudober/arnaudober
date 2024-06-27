@@ -1,4 +1,4 @@
-**Empowering Businesses with Cutting-Edge Web Solutions**
+**Empowering your startup’s rapid market entry through agile web development**
 
 With over 7 years of full-stack development experience, I specialize in creating efficient, user-friendly websites that help businesses thrive in the digital landscape. My expertise spans front-end and back-end development, ensuring seamless and robust web applications tailored to meet client needs.
 
